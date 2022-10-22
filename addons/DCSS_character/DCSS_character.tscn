@@ -1,0 +1,44 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfdcnj87q72ur"]
+
+[ext_resource type="Script" path="res://addons/DCSS_character/DCSS_char.gd" id="1_bekct"]
+
+[node name="DCSS_character" type="Node2D"]
+script = ExtResource("1_bekct")
+
+[node name="Halo" type="Sprite2D" parent="."]
+
+[node name="Cloak" type="Sprite2D" parent="."]
+
+[node name="Draconic Wing" type="Sprite2D" parent="."]
+
+[node name="Enchantment" type="Sprite2D" parent="."]
+
+[node name="Base" type="Sprite2D" parent="."]
+
+[node name="Legs" type="Sprite2D" parent="."]
+
+[node name="Body" type="Sprite2D" parent="."]
+
+[node name="Barding" type="Sprite2D" parent="."]
+
+[node name="Hair" type="Sprite2D" parent="."]
+
+[node name="Beard" type="Sprite2D" parent="."]
+
+[node name="Draconic Head" type="Sprite2D" parent="."]
+
+[node name="Form" type="Sprite2D" parent="."]
+
+[node name="Gloves" type="Sprite2D" parent="."]
+
+[node name="Head" type="Sprite2D" parent="."]
+
+[node name="Boots" type="Sprite2D" parent="."]
+
+[node name="Hand Left" type="Sprite2D" parent="."]
+
+[node name="Hand Right" type="Sprite2D" parent="."]
+
+[node name="Felids" type="Sprite2D" parent="."]
+
+[node name="Mutations" type="Sprite2D" parent="."]
